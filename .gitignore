@@ -1,1 +1,12 @@
+# env
 **/.env
+
+# Go
+/bin/
+/vendor/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
